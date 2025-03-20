@@ -1,0 +1,11 @@
+[
+    { "text": "메뉴 보여줘", "request": "query.menu" },
+    { "text": "추천 메뉴 알려줘", "request": "query.recommend" },
+    { "text": "내 주문 확인해줘", "request": "query.confirm" },
+    { "text": "새로운 메뉴 추천해줘", "request": "query.recommend" },
+    { "text": "내일 메뉴 추천해줘", "request": "query.recommend" },
+    { "text": "오늘 카페 메뉴 뭐가 있나요?", "request": "query.menu" },
+    { "text": "자주 찾는 메뉴 보여줘", "request": "query.menu" },
+    { "text": "커피 메뉴 추천해주세요", "request": "query.recommend" },
+    { "text": "지금 주문한 음료 확인하고 싶어요", "request": "query.confirm" }
+]

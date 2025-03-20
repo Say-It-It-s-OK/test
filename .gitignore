@@ -1,0 +1,11 @@
+logs/*
+results/*
+init_model/*
+order_model/*
+query_model/*
+
+!logs/
+!results/
+!init_model/
+!order_model/
+!query_model/

@@ -1,0 +1,15 @@
+[
+    { "text": "아메리카노 하나 주문해", "request": "order.new" },
+    { "text": "주문 취소해줘", "request": "order.cancel" },
+    { "text": "아이스 아메리카노 하나 주문해", "request": "order.new" },
+    { "text": "카페 라떼 하나 주문할게", "request": "order.new" },
+    { "text": "주문 업데이트 해줘", "request": "order.update" },
+    { "text": "주문 수정해줘", "request": "order.update" },
+    { "text": "카페라떼 한 잔 주문하고 싶어요", "request": "order.new" },
+    { "text": "주문 취소하고 싶어요", "request": "order.cancel" },
+    { "text": "아메리카노 두 잔 주문해", "request": "order.new" },
+    { "text": "핫초코 주문하고 싶어요", "request": "order.new" },
+    { "text": "주문 내역 수정해줘", "request": "order.update" },
+    { "text": "핫 아메리카노 하나 주문하고 싶어요", "request": "order.new" },
+    { "text": "주문을 취소할게요", "request": "order.cancel" }
+]

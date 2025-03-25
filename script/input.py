@@ -5,7 +5,7 @@ model = BertForSequenceClassification.from_pretrained("./init_model")
 tokenizer = BertTokenizer.from_pretrained("./init_model")
 model.eval()
 
-input_text = "메뉴판 보여줘"
+input_text = "아메리카노 하나 주문해줘"
 inputs = tokenizer(input_text, return_tensors="pt", truncation=True, padding=True, max_length=128)
 
 with torch.no_grad():

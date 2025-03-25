@@ -1,0 +1,55 @@
+[
+    { "text": "메뉴 보여줘", "labels": 0, "request": "query.menu" },
+    { "text": "메뉴판 보여줘", "labels": 0, "request": "query.menu" },
+    { "text": "메뉴 좀 보여줘", "labels": 0, "request": "query.menu" },
+    { "text": "카페 메뉴 뭐가 있나요?", "labels": 0, "request": "query.menu" },
+    { "text": "카페 메뉴 뭐가 있어?", "labels": 0, "request": "query.menu" },
+
+    { "text": "추천 메뉴 알려줘", "labels": 0, "request": "query.recommend" },
+    {
+        "text": "자주 찾는 메뉴 보여줘",
+        "labels": 0,
+        "request": "query.recommend"
+    },
+    {
+        "text": "인기 있는 메뉴 보여줘",
+        "labels": 0,
+        "request": "query.recommend"
+    },
+
+    { "text": "내 주문 확인해줘", "labels": 0, "request": "query.confirm" },
+    { "text": "장바구니 보여줘", "labels": 0, "request": "query.confirm" },
+    {
+        "text": "지금 주문한 음료 확인하고 싶어요",
+        "labels": 0,
+        "request": "query.confirm"
+    },
+
+    { "text": "아메리카노 하나 주문해", "labels": 1, "request": "order.new" },
+    {
+        "text": "아이스 아메리카노 하나 주문해",
+        "labels": 1,
+        "request": "order.new"
+    },
+    { "text": "카페 라떼 하나 주문할게", "labels": 1, "request": "order.new" },
+    {
+        "text": "카페라떼 한 잔 주문하고 싶어요",
+        "labels": 1,
+        "request": "order.new"
+    },
+    {
+        "text": "핫 아메리카노 하나 주문하고 싶어요",
+        "labels": 1,
+        "request": "order.new"
+    },
+    { "text": "아메리카노 두 잔 주문해", "labels": 1, "request": "order.new" },
+    { "text": "핫초코 주문하고 싶어요", "labels": 1, "request": "order.new" },
+
+    { "text": "주문 업데이트 해줘", "labels": 1, "request": "order.update" },
+    { "text": "주문 내역 수정해줘", "labels": 1, "request": "order.update" },
+    { "text": "주문 수정해줘", "labels": 1, "request": "order.update" },
+
+    { "text": "주문 취소해줘", "labels": 1, "request": "order.cancel" },
+    { "text": "주문 취소하고 싶어요", "labels": 1, "request": "order.cancel" },
+    { "text": "주문을 취소할게요", "labels": 1, "request": "order.cancel" }
+]
